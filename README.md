@@ -1,10 +1,9 @@
 # Basics of Java Labs
-6 basic java apps done in learning purposes (java (języki programowania) course at the university).
-
+Six basic java apps done in learning purposes during Java course (Języki Programowania) at the university.
 
 Author: Bartosz Rodziewicz
 
-This repo contains 6 basic apps that I was supposed to code during labs on my University.
+This repo contains 6 basic apps that I was supposed to code during labs on my university.
 The labs was all about learning basics of Java programming language.
 
 This repo contains 6 'programs' that I coded during them:
